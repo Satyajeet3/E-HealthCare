@@ -1,0 +1,12 @@
+.reg {
+  background: url("../images/bg.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.headerset {
+  padding-top: 100px;
+  box-sizing: border-box;
+}
+/* .reg-form {
+  background-color: #a79a9ae3;
+} */
